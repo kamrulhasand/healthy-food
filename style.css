@@ -29,7 +29,7 @@ h1{
     font-weight: 700;
 }
 .background{
-    background-image: url(kl.png);
+    background-image: url(3.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -51,7 +51,10 @@ h1{
     padding-right: 10%;
     padding-right: 20%;
     }
-    .cold{
-        background-color: rgba(0, 0, 0, 0.534);
+.cold{
+    background-color: rgba(0, 0, 0, 0.301);
+}
+    .experience img{
+        border-radius: 50px;
+        padding-left: 3%;
     }
-    
